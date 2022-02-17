@@ -1,0 +1,5 @@
+Let Number1 = INPUT 1
+Let Numbre2 = INPUT 2
+FUNCTION sum-square 
+	RETURN (Number1 x Number1) + (Number2 x Number2)
+OUTPUT sum-square
